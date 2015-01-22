@@ -1,4 +1,4 @@
-# Salud en Cifras application
+# Salud en Cifras Application
 
 ## Notes
 
@@ -14,6 +14,3 @@ In `.git/config`, section `[remote "origin"]`, add:
 push = refs/heads/master:refs/heads/master
 push = refs/heads/master:refs/heads/gh-pages
 ```
-
-
-
